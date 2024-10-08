@@ -34,7 +34,7 @@ This project investigates factors contributing to the significant increase in U.
 │   ├── cb_2020_us_county_5m/
 │   └── [other data files]
 ├── YNi_Project_Codes.ipynb
-├── YNI_Project_Report_570.pdf
+├── YNi_Project_Report_570.pdf
 └── README.md
 ```
 
