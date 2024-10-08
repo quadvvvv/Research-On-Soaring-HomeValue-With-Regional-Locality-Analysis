@@ -1,4 +1,4 @@
-# Home Value Research Project
+# Research on Soaring Home Value in U.S. with Regional Locality Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Analysis%20%26%20Visualization-orange)
